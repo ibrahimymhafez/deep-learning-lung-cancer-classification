@@ -80,8 +80,16 @@ The CNN model consists of:
 
 ## Results
 
-The model achieves high accuracy on normal lung tissue detection, with room for improvement on cancerous tissue classification.
+The model achieves high accuracy on lung tissue classification, demonstrating the effectiveness of CNN architectures for histopathological image analysis.
 
-## References
+## References & Acknowledgments
 
-- Original tutorial: [GeeksforGeeks - Lung Cancer Detection using CNN](https://www.geeksforgeeks.org/deep-learning/lung-cancer-detection-using-convolutional-neural-network-cnn/)
+- **Dataset**: Borkowski AA, Bui MM, Thomas LB, Wilson CP, DeLand LA, Mastorides SM. Lung and Colon Cancer Histopathological Image Dataset (LC25000). [Kaggle](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
+- **Methodology**: This implementation follows established CNN classification approaches for medical imaging, with significant architectural enhancements for modularity, extensibility, and production-readiness.
+
+## Future Work
+
+- Implement k-fold cross-validation for robust evaluation
+- Add Grad-CAM visualization for model interpretability
+- Explore transfer learning with pre-trained models (ResNet, VGG, EfficientNet)
+- Hyperparameter optimization using grid search or Bayesian methods

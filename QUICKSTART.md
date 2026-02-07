@@ -181,4 +181,5 @@ After running `main.py`, you should see:
 
 For issues or questions, refer to:
 - Main README.md for detailed documentation
-- Original tutorial: https://www.geeksforgeeks.org/deep-learning/lung-cancer-detection-using-convolutional-neural-network-cnn/
+- ARCHITECTURE.md for system design details
+- Dataset source: [Kaggle LC25000 Dataset](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)

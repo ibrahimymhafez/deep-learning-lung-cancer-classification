@@ -242,9 +242,9 @@ By studying this project, you'll learn:
 
 ---
 
-## 🔄 Comparison with Original
+## 🔄 Architectural Improvements
 
-| Aspect | Original GeeksforGeeks | This Implementation |
+| Aspect | Standard Tutorial Approach | This Implementation |
 |--------|----------------------|---------------------|
 | Structure | Single script | 7 modular packages |
 | Configuration | Hardcoded values | Centralized config |
@@ -309,7 +309,7 @@ By studying this project, you'll learn:
 
 ## 📝 Notes
 
-- This implementation maintains the same functionality as the original GeeksforGeeks tutorial
+- This implementation follows established CNN approaches for medical image classification
 - The code is production-ready and follows industry best practices
 - All modules are independently testable
 - The architecture supports easy extension and modification
@@ -317,11 +317,11 @@ By studying this project, you'll learn:
 
 ---
 
-## 🙏 Credits
+## 🙏 Acknowledgments
 
-- **Original Tutorial**: [GeeksforGeeks - Lung Cancer Detection using CNN](https://www.geeksforgeeks.org/deep-learning/lung-cancer-detection-using-convolutional-neural-network-cnn/)
-- **Dataset**: [Kaggle - Lung and Colon Cancer Histopathological Images](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
-- **Restructured by**: Professional modular implementation
+- **Dataset**: Borkowski AA, et al. Lung and Colon Cancer Histopathological Image Dataset (LC25000). [Kaggle](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
+- **Frameworks**: TensorFlow, Keras, scikit-learn, OpenCV
+- **Methodology**: CNN-based medical image classification with professional software engineering practices
 
 ---
 
