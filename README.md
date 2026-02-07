@@ -85,7 +85,7 @@ The model achieves high accuracy on lung tissue classification, demonstrating th
 ## References & Acknowledgments
 
 - **Dataset**: Borkowski AA, Bui MM, Thomas LB, Wilson CP, DeLand LA, Mastorides SM. Lung and Colon Cancer Histopathological Image Dataset (LC25000). [Kaggle](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
-- **Methodology**: This implementation follows established CNN classification approaches for medical imaging, with significant architectural enhancements for modularity, extensibility, and production-readiness.
+- **Inspiration**: Initial CNN approach inspired by [GeeksforGeeks tutorial](https://www.geeksforgeeks.org/lung-cancer-detection-using-convolutional-neural-network-cnn/), significantly extended with modular architecture, comprehensive documentation, and production-ready software engineering practices.
 
 ## Future Work
 
